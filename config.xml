@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <database>
+        <host>tcp://127.0.0.1</host>
+        <name>db</name>
+        <user>user</user>
+        <password>password</password>
+    </database>
+    <ticket>
+        <logo>imgs/pdftiks.png</logo>
+        <address1>1234 Anywhere St</address1>
+        <address2>Your City, ST 00000</address2>
+        <time>March 11th, 2024</time>
+        <note>Please RSVP by 3/20</note>
+    </ticket>
+</config>
