@@ -13,6 +13,7 @@ To install dependencies on a Ubuntu/Debian based system run the command below<br
 
 ## Configuration
 Please point the *config.xml* file to a MySQL database. Your tickets will be stored in a *tickets* table. The rest of the fields are show in the layout below.
+
 ![PDFTiks Fields](imgs/pdftiks_fields.png)
 
 ## Compiling
